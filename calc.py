@@ -2,6 +2,7 @@ import time
 import pprint
 # Testing PR File List
 # Testing push commit
+# Testing merge commit
 
 def add(a, b):
     return a + b
