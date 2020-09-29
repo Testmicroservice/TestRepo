@@ -5,4 +5,5 @@ Repository to test SourceRepoMonitor
 
 Adding test comment
 --------------------
-Another test comment
+1. Another test comment
+2. Second test comment
