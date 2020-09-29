@@ -7,3 +7,4 @@ Adding test comment
 --------------------
 1. Another test comment
 2. Second test comment
+3. Third test comment
