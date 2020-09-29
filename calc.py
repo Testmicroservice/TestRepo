@@ -13,7 +13,7 @@ def mult(a, b):
     return a * b
 
 def div(a, b):
-    return a/b
+    return a / b, a % b 
 
 def sub(a, b):
     return a - b
@@ -29,7 +29,7 @@ prod = mult(num1, num2)
 print("Product = ", prod)
 
 quot = div(num1, num2)
-print("Quotient = ", quot)
+print("Quotient, Remainder = ", quot)
 
 diff = sub(num1, num2)
 print("Difference = ", diff)
