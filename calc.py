@@ -31,3 +31,6 @@ print("Quotient, Remainder = ", quot)
 
 diff = sub(num1, num2)
 print("Difference = ", diff)
+
+sqr = square(num1)
+print("Sqare = ", sqr)
