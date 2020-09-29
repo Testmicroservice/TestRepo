@@ -1,3 +1,5 @@
 # TestRepo
 Repository to test SourceRepoMonitor
-abcdefgh
+
+* Added functionality to square numbers
+

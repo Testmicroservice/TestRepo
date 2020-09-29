@@ -18,6 +18,9 @@ def div(a, b):
 def sub(a, b):
     return a - b
 
+def square(a):
+    return a * a
+
 num1 = 5
 num2 = 7
 
